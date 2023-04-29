@@ -1,6 +1,3 @@
-## Source: Pan & Ruiz (2012), Table 4
-## instances with only first five machines
-## instances with only first ten machines
 "name","lb","ub"
 "ta001",NA,14033
 "ta002",NA,15151

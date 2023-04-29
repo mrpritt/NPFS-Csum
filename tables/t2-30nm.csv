@@ -1,14 +1,3 @@
-######################################################################
-# Supplementary data to
-#   Benavides, Ritt (2014): "Local search heuristics for minimizing total
-#     flowtime in permutation and non-permutation flow shops"
-#
-# Data as reported in Table 2, column "30 nm". The table contains 10
-# replications for each of the 120 Taillard instances, for a total of
-# 1200 entries.
-#
-# Base: pfs-5524.log
-######################################################################
 "name","best","seed"
 "ta001",14033,3971709045
 "ta002",15151,531802297
